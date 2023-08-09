@@ -1,2 +1,2 @@
 # mi-primer-readme
-rama para programa de java 
+rama para programa de phynton 
